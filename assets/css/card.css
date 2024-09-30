@@ -1,0 +1,137 @@
+.exam-wrapper {
+    --subject: #000;
+    width: 100%;
+    background-color: var(--subject);
+    border-radius: 5px;
+    padding-left: 8px;
+    box-sizing: border-box;
+}
+
+.exam {
+    width: 100%;
+    height: 100%;
+    background-color: #f9f9f9;
+    border: solid 2px #dbdbdb;
+    border-left: none;
+    border-radius: 0 3px 3px 0;
+    box-sizing: border-box;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.exam.compact {
+    padding: 5px 10px;
+}
+
+.exam>div:first-child {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    font-size: 1.1rem;
+    justify-content: space-evenly;
+}
+
+.exam.compact>div:first-child {
+    font-size: 1.2rem;
+}
+
+.exam.compact>div:first-child {
+    flex-direction: row;
+    align-items: center;
+}
+
+.exam>div:first-child>div {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.exam>div:first-child>*:nth-child(3) {
+    font-size: min(2rem, 8vw);
+    font-weight: 500;
+    text-wrap: pretty;
+}
+
+.exam.compact>div:first-child>*:nth-child(3) {
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-wrap: pretty;
+}
+
+.exam>div:last-child {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 5px;
+}
+
+.exam>div:last-child>div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.exam.compact>div:last-child>div {
+    flex-direction: row;
+}
+
+.link-btn {
+    background: #e6e6e6;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    height: 100%;
+    max-width: 4.75rem;
+    width: 15vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: min(1vw - 2px, 3px);
+    align-content: center;
+    background-position: 100%;
+}
+
+.exam.compact .link-btn {
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+button.downloading {
+    --p: 0%;
+    background: linear-gradient(to right, #e6e6e6 50%, #b3b3b3 50%) !important;
+    background-size: 200% !important;
+    background-position: calc(100% - var(--p)) !important;
+    transition: background-position 0.1s ease-in-out;
+}
+
+.link-btn.vert {
+    flex-direction: column;
+    gap: 2px;
+}
+
+.link-btn>span:first-child {
+    font-size: min(1.4rem, 5.5vw);
+}
+
+.link-btn>span:last-child {
+    font-size: min(1.2rem, 5vw);
+    font-weight: 500;
+    margin: -2px 0;
+}
+
+.parity {
+    border: solid 2px black;
+    outline: none;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.parity.odd {
+    border-color: #7694e0;
+}
+
+.parity.even {
+    border-color: #e07c76;
+}

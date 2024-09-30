@@ -1,0 +1,220 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+@import url(card.css);
+
+* {
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  color: black;
+  user-select: none;
+}
+
+html,
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+h1 {
+  margin: 15px 0;
+}
+
+#main {
+  width: 100%;
+  max-width: 600px;
+  padding: 6px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+#exams {
+  width: 100%;
+  padding: 30px 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+button {
+  cursor: pointer;
+  transition: filter 0.1s ease-in-out, transform 0.05s ease-in-out;
+}
+
+button:active:not(.downloading) {
+  filter: brightness(0.8);
+}
+
+button:active {
+  scale: 0.95;
+}
+
+button:disabled {
+  pointer-events: none;
+  filter: opacity(0.8);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  button:hover:not(.downloading) {
+    filter: brightness(0.85);
+  }
+}
+
+.options {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.fullRow {
+  display: flex;
+  width: 100%;
+  background-color: #f9f9f9;
+  border: solid 2px #dbdbdb;
+  border-radius: 5px;
+  padding: 5px;
+  gap: 5px;
+  box-sizing: border-box;
+}
+
+.fullRow>button {
+  width: 100%;
+  font-size: 1.2rem;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.fullRow>button.selected {
+  background-color: #bebebe;
+}
+
+.sep {
+  width: 100%;
+  height: 1px;
+  background-color: #dddddd;
+}
+
+.option-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 5px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.option-row:has(button.selected) button:not(.selected) {
+  filter: opacity(0.4);
+}
+
+.nobreak {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 5px;
+  justify-content: space-around;
+  flex: 1;
+}
+
+.subject-btn {
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+  gap: 4px;
+  border-radius: 100px;
+  padding: 1px 4px;
+  padding-right: 8px;
+  border: solid 1px #888;
+  outline: none;
+  background: white;
+  width: 100%;
+}
+
+.subject-btn>svg {
+  overflow: visible;
+}
+
+.subject-btn>span {
+  white-space: pre;
+  width: 100%;
+}
+
+.subject-btn.selected {
+  background-color: #ddd;
+  border: solid 1px #5b5b5b;
+}
+
+#year-row>select {
+  border: solid 1px #888;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  padding: 0 4px;
+}
+
+#year-row>select:hover {
+  outline: none;
+}
+
+.sort-btn {
+  background: white;
+  border-radius: 5px;
+  border: solid 1px #888;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 1.1rem;
+}
+
+#month-row>button {
+  background: white;
+  border-radius: 100px;
+  border: solid 1px #888;
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+}
+
+#month-row>button.selected {
+  background-color: #ddd;
+  border: solid 1px #333;
+}
+
+.no-result {
+  color: #555;
+  text-align: center;
+}
+
+.title {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.title>* {
+  flex: 1;
+  text-align: center;
+}
+
+#display-btn {
+  background: white;
+  border-radius: 5px;
+  border: solid 1px #888;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+}
+
+.align-right {
+  display: flex;
+  justify-content: flex-end;
+}

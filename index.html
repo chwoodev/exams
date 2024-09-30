@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S3CR2REHHV"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-S3CR2REHHV');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="학력평가, 모의고사 기출문제 다운로드">
+    <meta name="keywords" content="학평, 모고, 기출, 평가원, 수능">
+    <meta name="author" content="Hyunwoo Choi">
+    <meta property="og:site_name" content="모두의 기출">
+    <title>기출문제</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="shortcut icon" href="assets/favicon.svg">
+    <script src="assets/script/main.js" defer></script>
+    <script src="assets/script/ui.js" defer></script>
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/icon.css">
+</head>
+
+<body>
+    <div id="main">
+        <div class="options">
+            <div class="title">
+                <div></div>
+                <h1>기출문제</h1>
+                <div class="align-right">
+                    <button onclick="displayStyle(this)" id="display-btn">
+                        <span class="icon">&#xe8e9;</span>
+                    </button>
+                </div>
+            </div>
+            <div class="fullRow">
+                <button class="grade-btn" disabled>고1</button>
+                <button class="grade-btn" disabled>고2</button>
+                <button class="grade-btn" disabled>고3</button>
+            </div>
+            <div class="option-row" id="subject-row">
+            </div>
+            <div class="option-row" id="year-row">
+                <select name="yearFrom" id="year-from"></select>
+                <button onclick="selSort(this)" class="sort-btn">
+                    <span class="icon">&#xe5db;</span>
+                    <span>내림차순</span>
+                </button>
+                <select name="yearTo" id="year-to"></select>
+            </div>
+            <div class="option-row" id="month-row">
+            </div>
+            <div class="sep"></div>
+        </div>
+        <div id="exams">
+
+        </div>
+    </div>
+</body>
+
+</html>
