@@ -1,5 +1,577 @@
 [
   {
+    "name": "2024년 고2 10월 학평(경기) 국어",
+    "standardName": "2024년 고2 10월 학평(경기) 국어",
+    "grade": 2,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20241015/go2/kor_mun_W63LRCEE.pdf",
+      "정답": "20241015/mobile/h2_m_kor_ans_D2M3WM6I.png",
+      "해설": "20241015/go2/kor_hsj_H2P1DE49.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "국어"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 수학",
+    "standardName": "2024년 고2 10월 학평(경기) 수학",
+    "grade": 2,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/math_mun_4CE8MDJB.pdf",
+      "정답": "20241015/mobile/h2_m_math_ans_DI4F89A7.png",
+      "해설": "20241015/go2/math_hsj_Z59J87FB.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "수학"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 영어",
+    "standardName": "2024년 고2 10월 학평(경기) 영어",
+    "grade": 2,
+    "category": "english",
+    "count": 45,
+    "links": {
+      "문제": "20241015/go2/eng_1_mun_7198AL2W.pdf",
+      "듣기": "20241015/go2/eng_1_mp3_685O6DW1.mp3",
+      "대본": "20241015/go2/eng_1_scr_UN9D1AI6.pdf",
+      "정답": "20241015/mobile/h2_m_eng_1_ans_T5G975E2.png",
+      "해설": "20241015/go2/eng_1_hsj_3KH34WW7.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 한국사",
+    "standardName": "2024년 고2 10월 학평(경기) 한국사",
+    "grade": 2,
+    "category": "history",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_his_1_mun_O6B68MYY.pdf",
+      "정답": "20241015/mobile/h2_m_s_his_1_ans_O9156Z1M.png",
+      "해설": "20241015/go2/s_his_1_hsj_7K217Z98.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 생활과윤리",
+    "standardName": "2024년 고2 10월 학평(경기) 생활과윤리",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_ssnyr_mun_GJ5KAHA9.pdf",
+      "정답": "20241015/mobile/h2_m_s_ssnyr_ans_J488145X.png",
+      "해설": "20241015/go2/s_ssnyr_hsj_8B6B7HMU.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "생활과윤리"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 윤리와사상",
+    "standardName": "2024년 고2 10월 학평(경기) 윤리와사상",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_yrnss_mun_37A1L4T8.pdf",
+      "정답": "20241015/mobile/h2_m_s_yrnss_ans_6MNK1316.png",
+      "해설": "20241015/go2/s_yrnss_hsj_B9161KPX.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "윤리와사상"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 한국지리",
+    "standardName": "2024년 고2 10월 학평(경기) 한국지리",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_hanji_mun_51BS2WQD.pdf",
+      "정답": "20241015/mobile/h2_m_s_hanji_ans_6SV3T6W4.png",
+      "해설": "20241015/go2/s_hanji_hsj_3F9368GZ.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "한국지리"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 세계지리",
+    "standardName": "2024년 고2 10월 학평(경기) 세계지리",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_saeji_mun_D1162N16.pdf",
+      "정답": "20241015/mobile/h2_m_s_saeji_ans_OB94ROW1.png",
+      "해설": "20241015/go2/s_saeji_hsj_F4M4RU8Y.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "세계지리"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 동아시아사",
+    "standardName": "2024년 고2 10월 학평(경기) 동아시아사",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_easta_mun_5A236K6H.pdf",
+      "정답": "20241015/mobile/h2_m_s_easta_ans_658L1SWX.png",
+      "해설": "20241015/go2/s_easta_hsj_4M75J697.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "동아시아사"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 세계사",
+    "standardName": "2024년 고2 10월 학평(경기) 세계사",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_sks_mun_3JXW8XY7.pdf",
+      "정답": "20241015/mobile/h2_m_s_sks_ans_OLS4JI58.png",
+      "해설": "20241015/go2/s_sks_hsj_ST368A1I.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "세계사"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 정치와 법",
+    "standardName": "2024년 고2 10월 학평(경기) 정치와 법",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_bnj_mun_99E1729M.pdf",
+      "정답": "20241015/mobile/h2_m_s_bnj_ans_YO2WN7K7.png",
+      "해설": "20241015/go2/s_bnj_hsj_7VG9RS9E.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "정치와법"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 경제",
+    "standardName": "2024년 고2 10월 학평(경기) 경제",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_eco_mun_396W7AFK.pdf",
+      "정답": "20241015/mobile/h2_m_s_eco_ans_SAW19AF4.png",
+      "해설": "20241015/go2/s_eco_hsj_RLFGH4K9.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "경제"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 사회·문화",
+    "standardName": "2024년 고2 10월 학평(경기) 사회·문화",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/s_samun_mun_5M43PZ25.pdf",
+      "정답": "20241015/mobile/h2_m_s_samun_ans_13V6669N.png",
+      "해설": "20241015/go2/s_samun_hsj_77JLH42N.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "사회·문화"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 물리학Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 물리학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/g_phy1_mun_OU6XJSXK.pdf",
+      "정답": "20241015/mobile/h2_m_g_phy1_ans_MBE869E4.png",
+      "해설": "20241015/go2/g_phy1_hsj_8CNYRY6H.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "물리학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 화학Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 화학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/g_che1_mun_ZY6UM761.pdf",
+      "정답": "20241015/mobile/h2_m_g_che1_ans_2B5KX3Z7.png",
+      "해설": "20241015/go2/g_che1_hsj_63YK8Q2D.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "화학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 생명과학Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 생명과학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/g_bio1_mun_VG26DK79.pdf",
+      "정답": "20241015/mobile/h2_m_g_bio1_ans_VMU67JH1.png",
+      "해설": "20241015/go2/g_bio1_hsj_2N49MI6Q.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "생명과학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 지구과학Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 지구과학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/g_ear1_mun_83EH4A97.pdf",
+      "정답": "20241015/mobile/h2_m_g_ear1_ans_154E5969.png",
+      "해설": "20241015/go2/g_ear1_hsj_FOVVW6VQ_1.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "지구과학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 농업 기초 기술",
+    "standardName": "2024년 고2 10월 학평(경기) 농업 기초 기술",
+    "grade": 2,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/J_nupgi_mun_193RQ775.pdf",
+      "정답": "20241015/mobile/h2_m_J_nupgi_ans_F3891AD6.png",
+      "해설": "20241015/go2/J_nupgi_hsj_E2CAEPG7.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "농업기초기술"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 공업 일반",
+    "standardName": "2024년 고2 10월 학평(경기) 공업 일반",
+    "grade": 2,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/J_gup_mun_9LAKMJ6Y.pdf",
+      "정답": "20241015/mobile/h2_m_J_gup_ans_K24A429L.png",
+      "해설": "20241015/go2/J_gup_hsj_194SC74H.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "공업일반"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 상업 경제",
+    "standardName": "2024년 고2 10월 학평(경기) 상업 경제",
+    "grade": 2,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/J_sangup_mun_1LQDSIEZ.pdf",
+      "정답": "20241015/mobile/h2_m_J_sangup_ans_QZQXTXWL.png",
+      "해설": "20241015/go2/J_sangup_hsj_J5C41DJ4.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "상업경제"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 수산·해운 산업 기초",
+    "standardName": "2024년 고2 10월 학평(경기) 수산·해운 산업 기초",
+    "grade": 2,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/J_susan_mun_5OO6L3YR.pdf",
+      "정답": "20241015/mobile/h2_m_J_susan_ans_E7557L5A.png",
+      "해설": "20241015/go2/J_susan_hsj_9F91DI92.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "수산·해운산업기초"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 인간 발달",
+    "standardName": "2024년 고2 10월 학평(경기) 인간 발달",
+    "grade": 2,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/J_inkan_mun_I91655N6.pdf",
+      "정답": "20241015/mobile/h2_m_J_inkan_ans_18NRM4B4.png",
+      "해설": "20241015/go2/J_inkan_hsj_2FAP4CZV.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "인간발달"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 성공적인 직업 생활",
+    "standardName": "2024년 고2 10월 학평(경기) 성공적인 직업 생활",
+    "grade": 2,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go2/J_sjl_mun_D46ARB61.pdf",
+      "정답": "20241015/mobile/h2_m_J_sjl_ans_4RGD19MO.png",
+      "해설": "20241015/go2/J_sjl_hsj_6541TLO6.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "성공적인직업생활"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 독일어Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 독일어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/2nd_gr_mun_W11L6Q3H.pdf",
+      "정답": "20241015/mobile/h2_m_2nd_gr_ans_EN839EKC.png",
+      "해설": "20241015/go2/2nd_gr_hsj_5A2QR47J.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "독일어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 프랑스어Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 프랑스어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/2nd_fr_mun_37DMG2B4.pdf",
+      "정답": "20241015/mobile/h2_m_2nd_fr_ans_YT55I46V.png",
+      "해설": "20241015/go2/2nd_fr_hsj_49UE73NS.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "프랑스어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 스페인어Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 스페인어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/2nd_sp_mun_31675PCZ.pdf",
+      "정답": "20241015/mobile/h2_m_2nd_sp_ans_DSUH39NP.png",
+      "해설": "20241015/go2/2nd_sp_hsj_8Z5OF596.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "스페인어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 중국어Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 중국어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/2nd_ch_mun_49VVPT9S.pdf",
+      "정답": "20241015/mobile/h2_m_2nd_ch_ans_BA7ZZA34.png",
+      "해설": "20241015/go2/2nd_ch_hsj_98J166V4.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "중국어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 일본어Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 일본어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/2nd_ja_mun_2W52422O.pdf",
+      "정답": "20241015/mobile/h2_m_2nd_ja_ans_CEV52721.png",
+      "해설": "20241015/go2/2nd_ja_hsj_JZU9L6AV.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "일본어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 러시아어Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 러시아어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/2nd_ru_mun_95S6AH5O.pdf",
+      "정답": "20241015/mobile/h2_m_2nd_ru_ans_6L1O684V.png",
+      "해설": "20241015/go2/2nd_ru_hsj_3883C5B4.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "러시아어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고2 10월 학평(경기) 한문Ⅰ",
+    "standardName": "2024년 고2 10월 학평(경기) 한문Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go2/2nd_han_mun_2HC6AK3C.pdf",
+      "정답": "20241015/mobile/h2_m_2nd_han_ans_RN6719E4.png",
+      "해설": "20241015/go2/2nd_han_hsj_JA255KH4.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "한문Ⅰ"
+    }
+  },
+  {
     "name": "2024년 고2 9월 학평(인천) 국어",
     "standardName": "2024년 고2 9월 학평(인천) 국어",
     "grade": 2,

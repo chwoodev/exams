@@ -1,5 +1,121 @@
 [
   {
+    "name": "2024년 고1 10월 학평(경기) 국어",
+    "standardName": "2024년 고1 10월 학평(경기) 국어",
+    "grade": 1,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20241015/go1/kor_mun_TV4C3674.pdf",
+      "정답": "20241015/mobile/h1_m_kor_ans_1UG587I8.png",
+      "해설": "20241015/go1/kor_hsj_M4258A7J.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "국어"
+    }
+  },
+  {
+    "name": "2024년 고1 10월 학평(경기) 수학",
+    "standardName": "2024년 고1 10월 학평(경기) 수학",
+    "grade": 1,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go1/math_mun_8SA9RP88.pdf",
+      "정답": "20241015/mobile/h1_m_math_ans_B5S8MPRQ.png",
+      "해설": "20241015/go1/math_hsj_J71P1X8A.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "수학"
+    }
+  },
+  {
+    "name": "2024년 고1 10월 학평(경기) 영어",
+    "standardName": "2024년 고1 10월 학평(경기) 영어",
+    "grade": 1,
+    "category": "english",
+    "count": 45,
+    "links": {
+      "문제": "20241015/go1/eng_1_mun_JE17ML5L.pdf",
+      "듣기": "20241015/go1/eng_1_mp3_1T7H9ARM.mp3",
+      "대본": "20241015/go1/eng_1_scr_36X3GB7X.pdf",
+      "정답": "20241015/mobile/h1_m_eng_1_ans_2846TGF2.png",
+      "해설": "20241015/go1/eng_1_hsj_9HYL39WL.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "2024년 고1 10월 학평(경기) 한국사",
+    "standardName": "2024년 고1 10월 학평(경기) 한국사",
+    "grade": 1,
+    "category": "history",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go1/s_his_1_mun_PM88KQ72.pdf",
+      "정답": "20241015/mobile/h1_m_s_his_1_ans_2QF223SM.png",
+      "해설": "20241015/go1/s_his_1_hsj_664KMLSL.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "2024년 고1 10월 학평(경기) 통합사회",
+    "standardName": "2024년 고1 10월 학평(경기) 통합사회",
+    "grade": 1,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go1/s_soc_mun_586NNK98.pdf",
+      "정답": "20241015/mobile/h1_m_s_soc_ans_158UCGN2.png",
+      "해설": "20241015/go1/s_soc_hsj_E3IP933W.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "통합사회"
+    }
+  },
+  {
+    "name": "2024년 고1 10월 학평(경기) 통합과학",
+    "standardName": "2024년 고1 10월 학평(경기) 통합과학",
+    "grade": 1,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go1/g_sci_mun_MQXUM8PP.pdf",
+      "정답": "20241015/mobile/h1_m_g_sci_ans_8K19ZS1W.png",
+      "해설": "20241015/go1/g_sci_hsj_QS2OK8A9.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "통합과학"
+    }
+  },
+  {
     "name": "2024년 고1 9월 학평(인천) 국어",
     "standardName": "2024년 고1 9월 학평(인천) 국어",
     "grade": 1,

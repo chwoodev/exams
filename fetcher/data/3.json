@@ -1,5 +1,710 @@
 [
   {
+    "name": "2024년 고3 10월 학평(서울) 화법과 작문",
+    "standardName": "2024년 고3 10월 학평(서울) 화법과 작문",
+    "grade": 3,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20241015/go3/korA_1_mun_HV75568Z.pdf",
+      "정답": "20241015/mobile/h3_m_korA_1_ans_99352AHJ.png",
+      "해설": "20241015/go3/korA_1_hsj_KQ8744A1.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "화법과작문"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 언어와 매체",
+    "standardName": "2024년 고3 10월 학평(서울) 언어와 매체",
+    "grade": 3,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20241015/go3/korB_1_mun_6XCL7212.pdf",
+      "정답": "20241015/mobile/h3_m_korB_1_ans_X59649Z7.png",
+      "해설": "20241015/go3/korB_1_hsj_Z62463WQ.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "언어와매체"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 기하",
+    "standardName": "2024년 고3 10월 학평(서울) 기하",
+    "grade": 3,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/mathC_1_mun_AIMQUZAB.pdf",
+      "정답": "20241015/mobile/h3_m_mathC_1_ans_AT46RE61.png",
+      "해설": "20241015/go3/mathC_1_hsj_3X52WC7H.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "기하"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 미적분",
+    "standardName": "2024년 고3 10월 학평(서울) 미적분",
+    "grade": 3,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/mathB_1_mun_6QY672N8.pdf",
+      "정답": "20241015/mobile/h3_m_mathB_1_ans_L41766C2.png",
+      "해설": "20241015/go3/mathB_1_hsj_3UZ7CMSB.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "미적분"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 확률과 통계",
+    "standardName": "2024년 고3 10월 학평(서울) 확률과 통계",
+    "grade": 3,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/mathA_1_mun_SMWKIF68.pdf",
+      "정답": "20241015/mobile/h3_m_mathA_1_ans_16361Y9I.png",
+      "해설": "20241015/go3/mathA_1_hsj_AU4P3I1U.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "확률과통계"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 영어",
+    "standardName": "2024년 고3 10월 학평(서울) 영어",
+    "grade": 3,
+    "category": "english",
+    "count": 45,
+    "links": {
+      "문제": "20241015/go3/eng_1_mun_4AYRN8Z8.pdf",
+      "듣기": "20241015/go3/eng_1_mp3_P3D74117.mp3",
+      "대본": "20241015/go3/eng_1_scr_N8948CZ9.pdf",
+      "정답": "20241015/mobile/h3_m_eng_1_ans_6OQ5S7K4.png",
+      "해설": "20241015/go3/eng_1_hsj_G47J6RU2.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 한국사",
+    "standardName": "2024년 고3 10월 학평(서울) 한국사",
+    "grade": 3,
+    "category": "history",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_his_1_mun_UYB85395.pdf",
+      "정답": "20241015/mobile/h3_m_s_his_1_ans_77A9CS38.png",
+      "해설": "20241015/go3/s_his_1_hsj_4Y27611H.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 생활과윤리",
+    "standardName": "2024년 고3 10월 학평(서울) 생활과윤리",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_ssnyr_mun_8NN9AF62.pdf",
+      "정답": "20241015/mobile/h3_m_s_ssnyr_ans_H3MP7S4C.png",
+      "해설": "20241015/go3/s_ssnyr_hsj_V3523PQA.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "생활과윤리"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 윤리와사상",
+    "standardName": "2024년 고3 10월 학평(서울) 윤리와사상",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_yrnss_mun_8T828C72.pdf",
+      "정답": "20241015/mobile/h3_m_s_yrnss_ans_4J889IUU.png",
+      "해설": "20241015/go3/s_yrnss_hsj_E69252Z9.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "윤리와사상"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 한국지리",
+    "standardName": "2024년 고3 10월 학평(서울) 한국지리",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_hanji_mun_91J7H4G7.pdf",
+      "정답": "20241015/mobile/h3_m_s_hanji_ans_973F1SS7.png",
+      "해설": "20241015/go3/s_hanji_hsj_RXL7233U.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "한국지리"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 세계지리",
+    "standardName": "2024년 고3 10월 학평(서울) 세계지리",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_saeji_mun_ADN55B3G.pdf",
+      "정답": "20241015/mobile/h3_m_s_saeji_ans_9G54F2Y3.png",
+      "해설": "20241015/go3/s_saeji_hsj_TKC4639K.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "세계지리"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 동아시아사",
+    "standardName": "2024년 고3 10월 학평(서울) 동아시아사",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_easta_mun_L6588SVA.pdf",
+      "정답": "20241015/mobile/h3_m_s_easta_ans_V4KLUAJ6.png",
+      "해설": "20241015/go3/s_easta_hsj_83K8JHK5.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "동아시아사"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 세계사",
+    "standardName": "2024년 고3 10월 학평(서울) 세계사",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_sks_mun_7JJ67CU3.pdf",
+      "정답": "20241015/mobile/h3_m_s_sks_ans_ABO1V85V.png",
+      "해설": "20241015/go3/s_sks_hsj_3PLVT37F.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "세계사"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 정치와 법",
+    "standardName": "2024년 고3 10월 학평(서울) 정치와 법",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_bnj_mun_3R6HM7G1.pdf",
+      "정답": "20241015/mobile/h3_m_s_bnj_ans_YSRN18L3.png",
+      "해설": "20241015/go3/s_bnj_hsj_QP43NU17.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "정치와법"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 경제",
+    "standardName": "2024년 고3 10월 학평(서울) 경제",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_eco_mun_PITDD6AR.pdf",
+      "정답": "20241015/mobile/h3_m_s_eco_ans_YY428A18.png",
+      "해설": "20241015/go3/s_eco_hsj_WCC49K2W.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "경제"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 사회·문화",
+    "standardName": "2024년 고3 10월 학평(서울) 사회·문화",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/s_samun_mun_9PXN2UJ5.pdf",
+      "정답": "20241015/mobile/h3_m_s_samun_ans_PS99ON89.png",
+      "해설": "20241015/go3/s_samun_hsj_2I6831D2.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "사회·문화"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 물리학Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 물리학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_phy1_mun_K5E66352.pdf",
+      "정답": "20241015/mobile/h3_m_g_phy1_ans_2CLXD46H.png",
+      "해설": "20241015/go3/g_phy1_hsj_8M181815.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "물리학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 물리학Ⅱ",
+    "standardName": "2024년 고3 10월 학평(서울) 물리학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_phy2_mun_IKKGL7P7.pdf",
+      "정답": "20241015/mobile/h3_m_g_phy2_ans_PHZ48AEP.png",
+      "해설": "20241015/go3/g_phy2_hsj_V497BS2A.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "물리학Ⅱ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 화학Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 화학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_che1_mun_9F4M1TGQ.pdf",
+      "정답": "20241015/mobile/h3_m_g_che1_ans_Z84S8V5B.png",
+      "해설": "20241015/go3/g_che1_hsj_O796Q2PJ.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "화학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 화학Ⅱ",
+    "standardName": "2024년 고3 10월 학평(서울) 화학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_che2_mun_19VUV6W6.pdf",
+      "정답": "20241015/mobile/h3_m_g_che2_ans_3L9XF36E.png",
+      "해설": "20241015/go3/g_che2_hsj_1KLHZJ76.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "화학Ⅱ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 생명과학Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 생명과학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_bio1_mun_V5PG5AFW.pdf",
+      "정답": "20241015/mobile/h3_m_g_bio1_ans_5GL7V986.png",
+      "해설": "20241015/go3/g_bio1_hsj_8O3S6E14.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "생명과학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 생명과학Ⅱ",
+    "standardName": "2024년 고3 10월 학평(서울) 생명과학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_bio2_mun_O4IVCMIG.pdf",
+      "정답": "20241015/mobile/h3_m_g_bio2_ans_8S1HJNC9.png",
+      "해설": "20241015/go3/g_bio2_hsj_6U637985.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "생명과학Ⅱ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 지구과학Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 지구과학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_ear1_mun_714P9V49.pdf",
+      "정답": "20241015/mobile/h3_m_g_ear1_ans_CJHAFNLV.png",
+      "해설": "20241015/go3/g_ear1_hsj_BN84T897.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "지구과학Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 지구과학Ⅱ",
+    "standardName": "2024년 고3 10월 학평(서울) 지구과학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/g_ear2_mun_9R12AG29.pdf",
+      "정답": "20241015/mobile/h3_m_g_ear2_ans_Z2HBE98K.png",
+      "해설": "20241015/go3/g_ear2_hsj_42Y3ZQPA.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "지구과학Ⅱ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 농업 기초 기술",
+    "standardName": "2024년 고3 10월 학평(서울) 농업 기초 기술",
+    "grade": 3,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/J_nupgi_mun_4K7Z6JQZ.pdf",
+      "정답": "20241015/mobile/h3_m_J_nupgi_ans_XNB9CO87.png",
+      "해설": "20241015/go3/J_nupgi_hsj_D17A3M1Z.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "농업기초기술"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 공업 일반",
+    "standardName": "2024년 고3 10월 학평(서울) 공업 일반",
+    "grade": 3,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/J_gup_mun_E5J2G29J.pdf",
+      "정답": "20241015/mobile/h3_m_J_gup_ans_Q6T135LC.png",
+      "해설": "20241015/go3/J_gup_hsj_OTSSM6LR.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "공업일반"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 상업 경제",
+    "standardName": "2024년 고3 10월 학평(서울) 상업 경제",
+    "grade": 3,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/J_sangup_mun_B8187YIQ.pdf",
+      "정답": "20241015/mobile/h3_m_J_sangup_ans_NW71WB9E.png",
+      "해설": "20241015/go3/J_sangup_hsj_XNY6D28M.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "상업경제"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 수산·해운 산업 기초",
+    "standardName": "2024년 고3 10월 학평(서울) 수산·해운 산업 기초",
+    "grade": 3,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/J_susan_mun_9J93T3UY.pdf",
+      "정답": "20241015/mobile/h3_m_J_susan_ans_4DUGD792.png",
+      "해설": "20241015/go3/J_susan_hsj_595ABW64.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "수산·해운산업기초"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 인간 발달",
+    "standardName": "2024년 고3 10월 학평(서울) 인간 발달",
+    "grade": 3,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/J_inkan_mun_CSTACG59.pdf",
+      "정답": "20241015/mobile/h3_m_J_inkan_ans_CS9S2MR8.png",
+      "해설": "20241015/go3/J_inkan_hsj_5711L325.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "인간발달"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 성공적인 직업 생활",
+    "standardName": "2024년 고3 10월 학평(서울) 성공적인 직업 생활",
+    "grade": 3,
+    "category": "job",
+    "count": 20,
+    "links": {
+      "문제": "20241015/go3/J_sjl_mun_IJV183XQ.pdf",
+      "정답": "20241015/mobile/h3_m_J_sjl_ans_8MH6Q2D9.png",
+      "해설": "20241015/go3/J_sjl_hsj_D6271IIX.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "성공적인직업생활"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 독일어Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 독일어Ⅰ",
+    "grade": 3,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/2nd_gr_mun_4J272O59.pdf",
+      "정답": "20241015/mobile/h3_m_2nd_gr_ans_C4232SX6.png",
+      "해설": "20241015/go3/2nd_gr_hsj_KCFUZJIZ.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "독일어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 프랑스어Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 프랑스어Ⅰ",
+    "grade": 3,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/2nd_fr_mun_3W4V77AQ.pdf",
+      "정답": "20241015/mobile/h3_m_2nd_fr_ans_642SP896.png",
+      "해설": "20241015/go3/2nd_fr_hsj_R8A738BP.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "프랑스어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 스페인어Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 스페인어Ⅰ",
+    "grade": 3,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/2nd_sp_mun_7E84S76I.pdf",
+      "정답": "20241015/mobile/h3_m_2nd_sp_ans_YSI3T55S.png",
+      "해설": "20241015/go3/2nd_sp_hsj_QYAREOAH.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "스페인어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 중국어Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 중국어Ⅰ",
+    "grade": 3,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/2nd_ch_mun_35CT6799.pdf",
+      "정답": "20241015/mobile/h3_m_2nd_ch_ans_4R86U3Y4.png",
+      "해설": "20241015/go3/2nd_ch_hsj_8HF64A6A.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "중국어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 일본어Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 일본어Ⅰ",
+    "grade": 3,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/2nd_ja_mun_58621456.pdf",
+      "정답": "20241015/mobile/h3_m_2nd_ja_ans_51QN3PE3.png",
+      "해설": "20241015/go3/2nd_ja_hsj_OF85DD9A.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "일본어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 러시아어Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 러시아어Ⅰ",
+    "grade": 3,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/2nd_ru_mun_LIQ9P392.pdf",
+      "정답": "20241015/mobile/h3_m_2nd_ru_ans_VFRGNP2T.png",
+      "해설": "20241015/go3/2nd_ru_hsj_AW7616P7.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "러시아어Ⅰ"
+    }
+  },
+  {
+    "name": "2024년 고3 10월 학평(서울) 한문Ⅰ",
+    "standardName": "2024년 고3 10월 학평(서울) 한문Ⅰ",
+    "grade": 3,
+    "category": "langeage",
+    "count": 30,
+    "links": {
+      "문제": "20241015/go3/2nd_han_mun_85859CQZ.pdf",
+      "정답": "20241015/mobile/h3_m_2nd_han_ans_7DI955SV.png",
+      "해설": "20241015/go3/2nd_han_hsj_SK94JCYP.pdf"
+    },
+    "info": {
+      "year": "2024",
+      "month": 10,
+      "institute": "서울",
+      "type": "학평",
+      "subject": "한문Ⅰ"
+    }
+  },
+  {
     "name": "2024년 고3 9월 모평(평가원) 언어와 매체",
     "standardName": "2024년 고3 9월 모평(평가원) 언어와 매체",
     "grade": 3,
