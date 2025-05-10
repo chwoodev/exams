@@ -29,7 +29,12 @@ async function updateList() {
     if (!grade) return;
     let exams = await getExam(grade);
     exams = exams.filter(exam => selectedCategory ? selectedCategory == exam.category : true)
-        .filter(exam => selectedMonth ? selectedMonth == exam.month : true)
+        .filter(exam => {
+            if (!selectedMonth) return true;
+            let m = exam.month;
+            if (m == 4) m = 5;
+            return m == selectedMonth;
+        })
         .filter(exam => yearFromOption <= exam.year && exam.year <= yearToOption)
         .sort((a, b) => descending ? b.year - a.year : a.year - b.year);
     $('exams').innerHTML = '';
@@ -80,7 +85,7 @@ function createExamBox(exam) {
         span(`${exam.year}년`),
         nameLine,
         span(`${mappings.subject[exam.subject] ?? exam.subject}`),
-        span(`${mappings.institute[exam.institute]}`),
+        span(`${mappings.institute[exam.institute] ?? '???'}`),
     );
 
     let buttons = $E('div');
@@ -178,7 +183,6 @@ async function fetchExam(grade) {
     data.forEach(d => {
         const i = d.split('|');
         let month = parseInt(i[2]);
-        if (month == 5) month = 4;
         let obj = {
             year: parseInt(i[1]),
             month: month,

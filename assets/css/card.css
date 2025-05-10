@@ -29,7 +29,8 @@
     flex-direction: column;
     gap: 0.2rem;
     font-size: 1.1rem;
-    justify-content: space-evenly;
+    justify-content: flex-start;
+    flex-wrap: wrap;
 }
 
 .exam.compact>div:first-child {

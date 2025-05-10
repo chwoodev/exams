@@ -203,6 +203,10 @@ button:disabled {
   text-align: center;
 }
 
+.title>h1 {
+  flex: 3;
+}
+
 #display-btn {
   background: white;
   border-radius: 5px;

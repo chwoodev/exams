@@ -77,7 +77,7 @@ function createOptions() {
 
 function createMonthOptions() {
     const monthRow = $('month-row');
-    [3, 4, 6, 7, 9, 10, 11].forEach(x => {
+    [3, 5, 6, 7, 9, 10, 11].forEach(x => {
         let btn = $E('button');
         btn.textContent = `${x}월`;
         btn.onclick = () => {

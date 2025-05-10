@@ -88,12 +88,7 @@ let subjects = new Set();
                 o.links['대본'],
                 mappings.type[o.info.type],
                 mappings.institute[o.info.institute],
-                o.info.parity ? 1 : '',
-                '',
-                '',
-                '',
-                '',
-                ''
+                o.info.parity ? 1 : ''
             ]);
         });
 
