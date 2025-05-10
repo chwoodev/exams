@@ -22,7 +22,7 @@ let subjects = new Set();
         for (const exam of Array.from($('.board_qusesion').children().children()).reverse()) {
             let name = $(exam).find('.tit').text().trim().replace(/\s+/g, ' ');
             if (obj.some(x => x.name == name)) {
-                console.log(`SKIP: ${name}`);
+                // console.log(`SKIP: ${name}`);
                 continue;
             }
             let count = parseInt($(exam).find('.txt_info').children().first().text());
