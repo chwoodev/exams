@@ -1,5 +1,330 @@
 [
   {
+    "name": "2025년 고2 6월 학평(부산) 국어",
+    "standardName": "2025년 고2 6월 학평(부산) 국어",
+    "grade": 2,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20250604/go2/kor_mun_626F7113.pdf",
+      "정답": "20250604/mobile/h2_m_kor_ans_9D394A4C.png",
+      "해설": "20250604/go2/kor_hsj_1D4PC7B2.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "국어"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 수학",
+    "standardName": "2025년 고2 6월 학평(부산) 수학",
+    "grade": 2,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20250604/go2/math_mun_229I8ERM.pdf",
+      "정답": "20250604/mobile/h2_m_math_ans_QS3DN9S8.png",
+      "해설": "20250604/go2/math_hsj_KH388PFK.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "수학"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 영어",
+    "standardName": "2025년 고2 6월 학평(부산) 영어",
+    "grade": 2,
+    "category": "english",
+    "count": 45,
+    "links": {
+      "문제": "20250604/go2/eng_1_mun_29E7I1V8.pdf",
+      "듣기": "20250604/go2/eng_1_mp3_3G2AAIOH.mp3",
+      "대본": "20250604/go2/eng_1_scr_U9F65FWM.pdf",
+      "정답": "20250604/mobile/h2_m_eng_1_ans_64REH1WR_1.png",
+      "해설": "20250604/go2/eng_1_hsj_418JD51F.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 한국사",
+    "standardName": "2025년 고2 6월 학평(부산) 한국사",
+    "grade": 2,
+    "category": "history",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_his_1_mun_67U21186.pdf",
+      "정답": "20250604/mobile/h2_m_s_his_1_ans_ASYR9ZCF.png",
+      "해설": "20250604/go2/s_his_1_hsj_FI11CO5K.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 생활과윤리",
+    "standardName": "2025년 고2 6월 학평(부산) 생활과윤리",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_ssnyr_mun_X65IQO71_1.pdf",
+      "정답": "20250604/mobile/h2_m_s_ssnyr_ans_7LH58R7J.png",
+      "해설": "20250604/go2/s_ssnyr_hsj_D1GA573M.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "생활과윤리"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 윤리와사상",
+    "standardName": "2025년 고2 6월 학평(부산) 윤리와사상",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_yrnss_mun_CZ77D2JG.pdf",
+      "정답": "20250604/mobile/h2_m_s_yrnss_ans_EDJ6PJN5.png",
+      "해설": "20250604/go2/s_yrnss_hsj_344M4K63.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "윤리와사상"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 한국지리",
+    "standardName": "2025년 고2 6월 학평(부산) 한국지리",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_hanji_mun_173JTUIS.pdf",
+      "정답": "20250604/mobile/h2_m_s_hanji_ans_Q25V795L.png",
+      "해설": "20250604/go2/s_hanji_hsj_JE4VGBT2.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "한국지리"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 세계지리",
+    "standardName": "2025년 고2 6월 학평(부산) 세계지리",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_saeji_mun_1T89GI2Z.pdf",
+      "정답": "20250604/mobile/h2_m_s_saeji_ans_K3V5C495.png",
+      "해설": "20250604/go2/s_saeji_hsj_2X9868RF.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "세계지리"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 동아시아사",
+    "standardName": "2025년 고2 6월 학평(부산) 동아시아사",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_easta_mun_64IY5A17.pdf",
+      "정답": "20250604/mobile/h2_m_s_easta_ans_PH6O3I1I.png",
+      "해설": "20250604/go2/s_easta_hsj_3DECJW6P.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "동아시아사"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 세계사",
+    "standardName": "2025년 고2 6월 학평(부산) 세계사",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_sks_mun_ZA822Q45.pdf",
+      "정답": "20250604/mobile/h2_m_s_sks_ans_5DH9Y65W.png",
+      "해설": "20250604/go2/s_sks_hsj_2W235Y99.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "세계사"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 정치와 법",
+    "standardName": "2025년 고2 6월 학평(부산) 정치와 법",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_bnj_mun_TU64Q7Q3.pdf",
+      "정답": "20250604/mobile/h2_m_s_bnj_ans_WY174C43.png",
+      "해설": "20250604/go2/s_bnj_hsj_O2N52VQ4.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "정치와법"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 경제",
+    "standardName": "2025년 고2 6월 학평(부산) 경제",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_eco_mun_KU1M195F.pdf",
+      "정답": "20250604/mobile/h2_m_s_eco_ans_1Y65SA56.png",
+      "해설": "20250604/go2/s_eco_hsj_W82H8H64.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "경제"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 사회·문화",
+    "standardName": "2025년 고2 6월 학평(부산) 사회·문화",
+    "grade": 2,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/s_samun_mun_U548DG59_1.pdf",
+      "정답": "20250604/mobile/h2_m_s_samun_ans_KN7S35XJ.png",
+      "해설": "20250604/go2/s_samun_hsj_8B84IONP.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "사회·문화"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 물리학Ⅰ",
+    "standardName": "2025년 고2 6월 학평(부산) 물리학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/g_phy1_mun_QIY1919K.pdf",
+      "정답": "20250604/mobile/h2_m_g_phy1_ans_5J34XZSK.png",
+      "해설": "20250604/go2/g_phy1_hsj_R84GC29E.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "물리학Ⅰ"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 화학Ⅰ",
+    "standardName": "2025년 고2 6월 학평(부산) 화학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/g_che1_mun_H596NV3A.pdf",
+      "정답": "20250604/mobile/h2_m_g_che1_ans_H767QIN7.png",
+      "해설": "20250604/go2/g_che1_hsj_4MI6488G.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "화학Ⅰ"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 생명과학Ⅰ",
+    "standardName": "2025년 고2 6월 학평(부산) 생명과학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/g_bio1_mun_A39CG49A.pdf",
+      "정답": "20250604/mobile/h2_m_g_bio1_ans_B3GP2QQ9.png",
+      "해설": "20250604/go2/g_bio1_hsj_U3419P29.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "생명과학Ⅰ"
+    }
+  },
+  {
+    "name": "2025년 고2 6월 학평(부산) 지구과학Ⅰ",
+    "standardName": "2025년 고2 6월 학평(부산) 지구과학Ⅰ",
+    "grade": 2,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go2/g_ear1_mun_341A288K.pdf",
+      "정답": "20250604/mobile/h2_m_g_ear1_ans_AZ7T2J8A.png",
+      "해설": "20250604/go2/g_ear1_hsj_3I6G2A69.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "지구과학Ⅰ"
+    }
+  },
+  {
     "name": "2025년 고2 3월 학평(서울) 국어",
     "standardName": "2025년 고2 3월 학평(서울) 국어",
     "grade": 2,

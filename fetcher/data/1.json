@@ -1,5 +1,121 @@
 [
   {
+    "name": "2025년 고1 6월 학평(부산) 국어",
+    "standardName": "2025년 고1 6월 학평(부산) 국어",
+    "grade": 1,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20250604/go1/kor_mun_ARCD5KO6.pdf",
+      "정답": "20250604/mobile/h1_m_kor_ans_C545Y96V.png",
+      "해설": "20250604/go1/kor_hsj_T89VB6SC.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "국어"
+    }
+  },
+  {
+    "name": "2025년 고1 6월 학평(부산) 수학",
+    "standardName": "2025년 고1 6월 학평(부산) 수학",
+    "grade": 1,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20250604/go1/math_mun_BUH2C6Y2.pdf",
+      "정답": "20250604/mobile/h1_m_math_ans_AVPN1M65.png",
+      "해설": "20250604/go1/math_hsj_A3IV5DNB.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "수학"
+    }
+  },
+  {
+    "name": "2025년 고1 6월 학평(부산) 영어",
+    "standardName": "2025년 고1 6월 학평(부산) 영어",
+    "grade": 1,
+    "category": "english",
+    "count": 45,
+    "links": {
+      "문제": "20250604/go1/eng_1_mun_DMO2Z7PD.pdf",
+      "듣기": "20250604/go1/eng_1_mp3_1164A46D.mp3",
+      "대본": "20250604/go1/eng_1_scr_5KS2R8O8.pdf",
+      "정답": "20250604/mobile/h1_m_eng_1_ans_51L5821P_2.png",
+      "해설": "20250604/go1/eng_1_hsj_1877Z5O8.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "2025년 고1 6월 학평(부산) 한국사",
+    "standardName": "2025년 고1 6월 학평(부산) 한국사",
+    "grade": 1,
+    "category": "history",
+    "count": 20,
+    "links": {
+      "문제": "20250604/go1/s_his_1_mun_UE489O2Z.pdf",
+      "정답": "20250604/mobile/h1_m_s_his_1_ans_GJ96ZZ73_2.png",
+      "해설": "20250604/go1/s_his_1_hsj_J324I9OJ.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "2025년 고1 6월 학평(부산) 통합사회",
+    "standardName": "2025년 고1 6월 학평(부산) 통합사회",
+    "grade": 1,
+    "category": "social",
+    "count": 25,
+    "links": {
+      "문제": "20250604/go1/s_soc_mun_XZ75N63B.pdf",
+      "정답": "20250604/mobile/h1_m_s_soc_ans_22P66CYZ_2.png",
+      "해설": "20250604/go1/s_soc_hsj_R9XFK188.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "통합사회"
+    }
+  },
+  {
+    "name": "2025년 고1 6월 학평(부산) 통합과학",
+    "standardName": "2025년 고1 6월 학평(부산) 통합과학",
+    "grade": 1,
+    "category": "science",
+    "count": 25,
+    "links": {
+      "문제": "20250604/go1/g_sci_mun_K8H97769.pdf",
+      "정답": "20250604/mobile/h1_m_g_sci_ans_IUO43H2C_2.png",
+      "해설": "20250604/go1/g_sci_hsj_2OC55L9Z.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "통합과학"
+    }
+  },
+  {
     "name": "2025년 고1 3월 학평(서울) 국어",
     "standardName": "2025년 고1 3월 학평(서울) 국어",
     "grade": 1,
