@@ -1,5 +1,463 @@
 [
   {
+    "name": "2025년 고3 7월 학평(인천) 언어와 매체",
+    "standardName": "2025년 고3 7월 학평(인천) 언어와 매체",
+    "grade": 3,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20250710/go3/korB_1_mun_G4WIZ5UA.pdf",
+      "정답": "20250710/mobile/h3_m_korB_1_ans_OCXF9O3W_1.png",
+      "해설": "20250710/go3/korB_1_hsj_9LXO251Y_1.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "언어와매체"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 화법과 작문",
+    "standardName": "2025년 고3 7월 학평(인천) 화법과 작문",
+    "grade": 3,
+    "category": "korean",
+    "count": 45,
+    "links": {
+      "문제": "20250710/go3/korA_1_mun_178BCS6A.pdf",
+      "정답": "20250710/mobile/h3_m_korA_1_ans_F1YGVZ75_1.png",
+      "해설": "20250710/go3/korA_1_hsj_KP476V55_1.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "화법과작문"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 확률과 통계",
+    "standardName": "2025년 고3 7월 학평(인천) 확률과 통계",
+    "grade": 3,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20250710/go3/mathA_1_mun_23TG4654_11.pdf",
+      "정답": "20250710/mobile/h3_m_mathA_1_ans_63YJLU49.png",
+      "해설": "20250710/go3/mathA_1_hsj_KK223HQR_12.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "확률과통계"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 기하",
+    "standardName": "2025년 고3 7월 학평(인천) 기하",
+    "grade": 3,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20250710/go3/mathC_1_mun_BPY515AT_1.pdf",
+      "정답": "20250710/mobile/h3_m_mathC_1_ans_3O7Z3H16.png",
+      "해설": "20250710/go3/mathC_1_hsj_5L4D6V11_12.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "기하"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 미적분",
+    "standardName": "2025년 고3 7월 학평(인천) 미적분",
+    "grade": 3,
+    "category": "math",
+    "count": 30,
+    "links": {
+      "문제": "20250710/go3/mathB_1_mun_38S3CNAS_1.pdf",
+      "정답": "20250710/mobile/h3_m_mathB_1_ans_9Z65Z6A3.png",
+      "해설": "20250710/go3/mathB_1_hsj_64GOGHII_12.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "미적분"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 영어",
+    "standardName": "2025년 고3 7월 학평(인천) 영어",
+    "grade": 3,
+    "category": "english",
+    "count": 45,
+    "links": {
+      "문제": "20250710/go3/eng_1_mun_4328TGTW.pdf",
+      "듣기": "20250710/go3/eng_1_mp3_W5CKS155.mp3",
+      "대본": "20250710/go3/eng_1_scr_AI5MMODB.pdf",
+      "정답": "20250710/mobile/h3_m_eng_1_ans_59964G48.png",
+      "해설": "20250710/go3/eng_1_hsj_7GURW85A_2.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 한국사",
+    "standardName": "2025년 고3 7월 학평(인천) 한국사",
+    "grade": 3,
+    "category": "history",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_his_1_mun_EW2GB6Z5.pdf",
+      "정답": "20250710/mobile/h3_m_s_his_1_ans_9B3MO8N5.png",
+      "해설": "20250710/go3/s_his_1_hsj_2MX3D1RC.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 생활과윤리",
+    "standardName": "2025년 고3 7월 학평(인천) 생활과윤리",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_ssnyr_mun_5D81KO97.pdf",
+      "정답": "20250710/mobile/h3_m_s_ssnyr_ans_L71U5KX1.png",
+      "해설": "20250710/go3/s_ssnyr_hsj_PK521CGN.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "생활과윤리"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 윤리와사상",
+    "standardName": "2025년 고3 7월 학평(인천) 윤리와사상",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_yrnss_mun_77TYA4SM.pdf",
+      "정답": "20250710/mobile/h3_m_s_yrnss_ans_YES661P2.png",
+      "해설": "20250710/go3/s_yrnss_hsj_N273236D.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "윤리와사상"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 한국지리",
+    "standardName": "2025년 고3 7월 학평(인천) 한국지리",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_hanji_mun_Q6XXIA9P.pdf",
+      "정답": "20250710/mobile/h3_m_s_hanji_ans_Z19BZC64.png",
+      "해설": "20250710/go3/s_hanji_hsj_F23F5BC2.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "한국지리"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 세계지리",
+    "standardName": "2025년 고3 7월 학평(인천) 세계지리",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_saeji_mun_ER75688A.pdf",
+      "정답": "20250710/mobile/h3_m_s_saeji_ans_IZ3F8OV3.png",
+      "해설": "20250710/go3/s_saeji_hsj_6JE631HV.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "세계지리"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 동아시아사",
+    "standardName": "2025년 고3 7월 학평(인천) 동아시아사",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_easta_mun_TCU3AQ5W.pdf",
+      "정답": "20250710/mobile/h3_m_s_easta_ans_14V84453.png",
+      "해설": "20250710/go3/s_easta_hsj_4841G87D.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "동아시아사"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 세계사",
+    "standardName": "2025년 고3 7월 학평(인천) 세계사",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_sks_mun_A7B585G1.pdf",
+      "정답": "20250710/mobile/h3_m_s_sks_ans_FEIR53K9.png",
+      "해설": "20250710/go3/s_sks_hsj_AAIMPPGO.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "세계사"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 정치와 법",
+    "standardName": "2025년 고3 7월 학평(인천) 정치와 법",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_bnj_mun_95W9247Z.pdf",
+      "정답": "20250710/mobile/h3_m_s_bnj_ans_49T66A1V.png",
+      "해설": "20250710/go3/s_bnj_hsj_1MM2IY6G.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "정치와법"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 경제",
+    "standardName": "2025년 고3 7월 학평(인천) 경제",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_eco_mun_24756VJO.pdf",
+      "정답": "20250710/mobile/h3_m_s_eco_ans_P899T7S7.png",
+      "해설": "20250710/go3/s_eco_hsj_9QI6J527.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "경제"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 사회·문화",
+    "standardName": "2025년 고3 7월 학평(인천) 사회·문화",
+    "grade": 3,
+    "category": "social",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/s_samun_mun_A4GZU5MG.pdf",
+      "정답": "20250710/mobile/h3_m_s_samun_ans_L6J3A2KF.png",
+      "해설": "20250710/go3/s_samun_hsj_4921A11F.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "사회·문화"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 물리학Ⅰ",
+    "standardName": "2025년 고3 7월 학평(인천) 물리학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_phy1_mun_7G6Q1667_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_phy1_ans_3T353927.png",
+      "해설": "20250710/go3/g_phy1_hsj_2PO3C7YM_11.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "물리학Ⅰ"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 물리학Ⅱ",
+    "standardName": "2025년 고3 7월 학평(인천) 물리학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_phy2_mun_D25G2RVJ_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_phy2_ans_3VJ6B99W.png",
+      "해설": "20250710/go3/g_phy2_hsj_6675B5TS2.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "물리학Ⅱ"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 화학Ⅰ",
+    "standardName": "2025년 고3 7월 학평(인천) 화학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_che1_mun_B427XT98_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_che1_ans_57W3574F.png",
+      "해설": "20250710/go3/g_che1_hsj_7PZ58S6G1.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "화학Ⅰ"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 화학Ⅱ",
+    "standardName": "2025년 고3 7월 학평(인천) 화학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_che2_mun_7BMJ1976_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_che2_ans_63F8861I.png",
+      "해설": "20250710/go3/g_che2_hsj_YG9128821.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "화학Ⅱ"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 생명과학Ⅰ",
+    "standardName": "2025년 고3 7월 학평(인천) 생명과학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_bio1_mun_219682R7_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_bio1_ans_OVJ2Q4ZT.png",
+      "해설": "20250710/go3/g_bio1_hsj_56MPF4Q91.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "생명과학Ⅰ"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 생명과학Ⅱ",
+    "standardName": "2025년 고3 7월 학평(인천) 생명과학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_bio2_mun_461HF11K_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_bio2_ans_21EV3A92.png",
+      "해설": "20250710/go3/g_bio2_hsj_SB72TWA61.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "생명과학Ⅱ"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 지구과학Ⅰ",
+    "standardName": "2025년 고3 7월 학평(인천) 지구과학Ⅰ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_ear1_mun_S5BBWPP6_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_ear1_ans_8615YNIG.png",
+      "해설": "20250710/go3/g_ear1_hsj_CVKZZSAE_11.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "지구과학Ⅰ"
+    }
+  },
+  {
+    "name": "2025년 고3 7월 학평(인천) 지구과학Ⅱ",
+    "standardName": "2025년 고3 7월 학평(인천) 지구과학Ⅱ",
+    "grade": 3,
+    "category": "science",
+    "count": 20,
+    "links": {
+      "문제": "20250710/go3/g_ear2_mun_FW9ZBBC7_11.pdf",
+      "정답": "20250710/mobile/h3_m_g_ear2_ans_X961G32V.png",
+      "해설": "20250710/go3/g_ear2_hsj_42ETPA171.pdf"
+    },
+    "info": {
+      "year": "2025",
+      "month": 7,
+      "institute": "인천",
+      "type": "학평",
+      "subject": "지구과학Ⅱ"
+    }
+  },
+  {
     "name": "2025년 고3 6월 모평(평가원) 언어와 매체",
     "standardName": "2025년 고3 6월 모평(평가원) 언어와 매체",
     "grade": 3,
