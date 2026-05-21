@@ -6,6 +6,17 @@ const mappings = require('./mappings.json');
 
 let subjects = new Set();
 
+const categoryMap = new Map(Object.entries({ 
+    'kor': 'korean',
+    'math': 'math',
+    'eng': 'english',
+    'his': 'history',
+    'soc': 'social',
+    'sci': 'science',
+    'career': 'job',
+    'lang': 'langeage'
+}));
+
 (async () => {
     for (const grade of [1, 2, 3]) {
         let html = await fs.readFile(`html/${grade}.html`).catch(() => null);
@@ -19,22 +30,22 @@ let subjects = new Set();
 
         const $ = cheerio.load(html.toString());
 
-        for (const exam of Array.from($('.board_qusesion').children().children()).reverse()) {
-            let name = $(exam).find('.tit').text().trim().replace(/\s+/g, ' ');
+        for (const exam of $('.qus_box').toArray()) {
+            let name = $(exam).find('.qus_tit').text().trim().replace(/\s+/g, ' ');
             if (obj.some(x => x.name == name)) {
                 // console.log(`SKIP: ${name}`);
                 continue;
             }
-            let count = parseInt($(exam).find('.txt_info').children().first().text());
-            let category = $(exam).find('.img>img').attr('src').match(/thumb_book_(.+).png/)?.at(1);
-            let buttons = $(exam).find('.btn_row.btn_down_row');
+            let count = 0;
+            let category = categoryMap[$(exam).attr('class').split(' ')?.at(1)];
+            let buttons = $(exam).find('dd');
             let links = {};
             buttons.children().each((j, btn) => {
                 links[$(btn).text()] = $(btn).attr('onclick').match(/'(.*?)'/)[1]
                     .replace(/https?:\/\/wdown.ebsi.co.kr\/W61001\/01exam/, '')
                     .replace(/^\//, '');
             });
-            let info = getInfo(name);
+            let info = getInfo(name, parseInt($(exam).find('flag_subject_col_basic').text()));
             let standardName = name.replace('짝수형', '').replace('홀수형', '').trim();
 
             obj.splice(0, 0, {
@@ -119,11 +130,24 @@ async function getHTML(grade) {
     let options = new URLSearchParams();
     options.set('targetCd', `D${grade}00`);
     options.set('monthList', '01,02,03,04,05,06,07,08,09,10,11,12');
-    options.set('subjList', '1,2,3,4,5,6,7,8,9,10');
-    options.set('beginYear', 2006);
-    options.set('endYear', new Date().getFullYear());
-    options.set('monthAll', 'on');
-    options.set('subjAll', 'on');
+
+
+    options.set('yearList', new Date().getFullYear());
+    options.set('year', new Date().getFullYear());
+    options.set('arOrd', '1,2,3,4,5,,6,7,8');
+    options.set('monthAll', 'all');
+    options.set('subjIdList', 'firstEnter');
+    options.set('sort', 'recent');
+    options.set('korArOrd', 1);
+    options.set('mathArOrd', 2);
+    options.set('engArOrd', 3);
+    options.set('hisArOrd', 4);
+    options.set('srch1ArOrd', 5);
+    options.set('srch2ArOrd', 6);
+    options.set('jobArOrd', 7);
+    options.set('scndForgnlngArOrd', 8);
+
+
     options.set('pageSize', 100);
     let r = await fetch('https://www.ebsi.co.kr/ebs/xip/xipc/previousPaperListAjax.ajax', {
         body: options.toString(),
