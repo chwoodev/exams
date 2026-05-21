@@ -30,14 +30,15 @@ const categoryMap = new Map(Object.entries({
 
         const $ = cheerio.load(html.toString());
 
-        for (const exam of $('.qus_box').toArray()) {
+        for (const exam of $('.qus_box').toArray().toReversed()) {
             let name = $(exam).find('.qus_tit').text().trim().replace(/\s+/g, ' ');
             if (obj.some(x => x.name == name)) {
                 // console.log(`SKIP: ${name}`);
                 continue;
             }
             let count = 0;
-            let category = categoryMap[$(exam).attr('class').split(' ')?.at(1)];
+            let category = categoryMap.get($(exam).attr('class').split(' ')?.at(1));
+            
             let buttons = $(exam).find('dd');
             let links = {};
             buttons.children().each((j, btn) => {
@@ -45,7 +46,9 @@ const categoryMap = new Map(Object.entries({
                     .replace(/https?:\/\/wdown.ebsi.co.kr\/W61001\/01exam/, '')
                     .replace(/^\//, '');
             });
-            let info = getInfo(name, parseInt($(exam).find('flag_subject_col_basic').text()));
+
+            
+            let info = getInfo(name, parseInt($(exam).find('.flag_subject_col_basic').first().text()));
             let standardName = name.replace('짝수형', '').replace('홀수형', '').trim();
 
             obj.splice(0, 0, {

@@ -23,5 +23,5 @@ module.exports = function getInfo(x, y) {
         month = 5;
     }
 
-    return { y, month, institute, type, parity, subject };
+    return { year:y, month, institute, type, parity, subject };
 }
