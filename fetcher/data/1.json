@@ -1,5 +1,121 @@
 [
   {
+    "name": "고1 6월 학평(부산) 국어",
+    "standardName": "고1 6월 학평(부산) 국어",
+    "grade": 1,
+    "category": "korean",
+    "count": 0,
+    "links": {
+      "문제": "20260604/go1/kor_mun_KU4TO2V1.pdf",
+      "정답": "20260604/mobile/h1_m_kor_ans_Q2O78828.png",
+      "해설": "20260604/go1/kor_hsj_V3Q33Y86.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "국어"
+    }
+  },
+  {
+    "name": "고1 6월 학평(부산) 수학",
+    "standardName": "고1 6월 학평(부산) 수학",
+    "grade": 1,
+    "category": "math",
+    "count": 0,
+    "links": {
+      "문제": "20260604/go1/math_mun_D7P5UME3.pdf",
+      "정답": "20260604/mobile/h1_m_math_ans_5APLM993.png",
+      "해설": "20260604/go1/math_hsj_AX588329.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "수학"
+    }
+  },
+  {
+    "name": "고1 6월 학평(부산) 영어",
+    "standardName": "고1 6월 학평(부산) 영어",
+    "grade": 1,
+    "category": "english",
+    "count": 0,
+    "links": {
+      "문제": "20260604/go1/eng_1_mun_52V69X11.pdf",
+      "정답": "20260604/mobile/h1_m_eng_1_ans_3Z822SR3.png",
+      "해설": "20260604/go1/eng_1_hsj_A2GFZA25.pdf",
+      "듣기": "20260604/go1/eng_1_mp3_2MD541UX.mp3",
+      "대본": "20260604/go1/eng_1_scr_H2TWQD58.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "고1 6월 학평(부산) 한국사",
+    "standardName": "고1 6월 학평(부산) 한국사",
+    "grade": 1,
+    "category": "history",
+    "count": 0,
+    "links": {
+      "문제": "20260604/go1/s_his_1_mun_QAI459AT.pdf",
+      "정답": "20260604/mobile/h1_m_s_his_1_ans_43DY8A44.png",
+      "해설": "20260604/go1/s_his_1_hsj_8KTXZ4YZ.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "고1 6월 학평(부산) 통합사회",
+    "standardName": "고1 6월 학평(부산) 통합사회",
+    "grade": 1,
+    "category": "social",
+    "count": 0,
+    "links": {
+      "문제": "20260604/go1/s_soc_mun_N79QRDF7.pdf",
+      "정답": "20260604/mobile/h1_m_s_soc_ans_TD77B438.png",
+      "해설": "20260604/go1/s_soc_hsj_G617D68W.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "통합사회"
+    }
+  },
+  {
+    "name": "고1 6월 학평(부산) 통합과학",
+    "standardName": "고1 6월 학평(부산) 통합과학",
+    "grade": 1,
+    "category": "science",
+    "count": 0,
+    "links": {
+      "문제": "20260604/go1/g_sci_mun_GADF2497.pdf",
+      "정답": "20260604/mobile/h1_m_g_sci_ans_29XBHA5A.png",
+      "해설": "20260604/go1/g_sci_hsj_J218F86M.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 6,
+      "institute": "부산",
+      "type": "학평",
+      "subject": "통합과학"
+    }
+  },
+  {
     "name": "고1 3월 학평(서울) 통합과학",
     "standardName": "고1 3월 학평(서울) 통합과학",
     "grade": 1,
