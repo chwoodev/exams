@@ -1,5 +1,273 @@
 [
   {
+    "name": "고2 10월 학평(경기) 국어",
+    "standardName": "고2 10월 학평(경기) 국어",
+    "grade": 2,
+    "category": "korean",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/kor_mun_3R69236R.pdf",
+      "정답": "20261020/mobile/h2_m_kor_ans_29TUN43G.png",
+      "해설": "20261020/go2/kor_hsj_VAK354D2.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "국어"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 수학",
+    "standardName": "고2 10월 학평(경기) 수학",
+    "grade": 2,
+    "category": "math",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/math_mun_2O8F6113.pdf",
+      "정답": "20261020/mobile/h2_m_math_ans_J76AVH39.png",
+      "해설": "20261020/go2/math_hsj_227HZ894.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "수학"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 영어",
+    "standardName": "고2 10월 학평(경기) 영어",
+    "grade": 2,
+    "category": "english",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/eng_1_mun_HM87Y4A3.pdf",
+      "정답": "20261020/mobile/h2_m_eng_1_ans_27S1X52X.png",
+      "해설": "20261020/go2/eng_1_hsj_1B46I8A8.pdf",
+      "듣기": "20261020/go2/eng_1_mp3_6616ZF23.mp3",
+      "대본": "20261020/go2/eng_1_scr_8E8IALD6.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "영어"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 한국사",
+    "standardName": "고2 10월 학평(경기) 한국사",
+    "grade": 2,
+    "category": "history",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/s_his_1_mun_LR96N9AX.pdf",
+      "정답": "20261020/mobile/h2_m_s_his_1_ans_2MWMG14O.png",
+      "해설": "20261020/go2/s_his_1_hsj_5O2KD63N.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "한국사"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 통합사회",
+    "standardName": "고2 10월 학평(경기) 통합사회",
+    "grade": 2,
+    "category": "social",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/s_soc_mun_R6464G82.pdf",
+      "정답": "20261020/mobile/h2_m_s_soc_ans_T319J76E.png",
+      "해설": "20261020/go2/s_soc_hsj_9K18A5GA.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "통합사회"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 통합과학",
+    "standardName": "고2 10월 학평(경기) 통합과학",
+    "grade": 2,
+    "category": "science",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/g_sci_mun_37PP356Z.pdf",
+      "정답": "20261020/mobile/h2_m_g_sci_ans_3NZEB9B5.png",
+      "해설": "20261020/go2/g_sci_hsj_GU1IOWJT.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "통합과학"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 성공적인 직업 생활",
+    "standardName": "고2 10월 학평(경기) 성공적인 직업 생활",
+    "grade": 2,
+    "category": "job",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/J_sjl_mun_JN94O9WL.pdf",
+      "정답": "20261020/mobile/h2_m_J_sjl_ans_96AN9DDJ.png",
+      "해설": "20261020/go2/J_sjl_hsj_F4QYDT13.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "성공적인직업생활"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 독일어Ⅰ",
+    "standardName": "고2 10월 학평(경기) 독일어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/2nd_gr_mun_123SUD78.pdf",
+      "정답": "20261020/mobile/h2_m_2nd_gr_ans_93ONUZAP.png",
+      "해설": "20261020/go2/2nd_gr_hsj_1EA79919.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "독일어Ⅰ"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 프랑스어Ⅰ",
+    "standardName": "고2 10월 학평(경기) 프랑스어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/2nd_fr_mun_3H5243AQ.pdf",
+      "정답": "20261020/mobile/h2_m_2nd_fr_ans_V9I39I35.png",
+      "해설": "20261020/go2/2nd_fr_hsj_WW87892A.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "프랑스어Ⅰ"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 스페인어Ⅰ",
+    "standardName": "고2 10월 학평(경기) 스페인어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/2nd_sp_mun_6W336H53.pdf",
+      "정답": "20261020/mobile/h2_m_2nd_sp_ans_NAP4QUW6.png",
+      "해설": "20261020/go2/2nd_sp_hsj_LSD2LQW9.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "스페인어Ⅰ"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 중국어Ⅰ",
+    "standardName": "고2 10월 학평(경기) 중국어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/2nd_ch_mun_68M2D3B6.pdf",
+      "정답": "20261020/mobile/h2_m_2nd_ch_ans_S1875EII.png",
+      "해설": "20261020/go2/2nd_ch_hsj_X92M6664.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "중국어Ⅰ"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 일본어Ⅰ",
+    "standardName": "고2 10월 학평(경기) 일본어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/2nd_ja_mun_49482S4H.pdf",
+      "정답": "20261020/mobile/h2_m_2nd_ja_ans_A7R4JW25.png",
+      "해설": "20261020/go2/2nd_ja_hsj_2O622ZXL.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "일본어Ⅰ"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 러시아어Ⅰ",
+    "standardName": "고2 10월 학평(경기) 러시아어Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/2nd_ru_mun_823254DB.pdf",
+      "정답": "20261020/mobile/h2_m_2nd_ru_ans_136H14ZS.png",
+      "해설": "20261020/go2/2nd_ru_hsj_F26F155L.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "러시아어Ⅰ"
+    }
+  },
+  {
+    "name": "고2 10월 학평(경기) 한문Ⅰ",
+    "standardName": "고2 10월 학평(경기) 한문Ⅰ",
+    "grade": 2,
+    "category": "langeage",
+    "count": 0,
+    "links": {
+      "문제": "20261020/go2/2nd_han_mun_WP4311AP.pdf",
+      "정답": "20261020/mobile/h2_m_2nd_han_ans_F2YNF984.png",
+      "해설": "20261020/go2/2nd_han_hsj_H3YV1E65.pdf"
+    },
+    "info": {
+      "year": 2026,
+      "month": 10,
+      "institute": "경기",
+      "type": "학평",
+      "subject": "한문Ⅰ"
+    }
+  },
+  {
     "name": "고2 9월 학평(인천) 국어",
     "standardName": "고2 9월 학평(인천) 국어",
     "grade": 2,
